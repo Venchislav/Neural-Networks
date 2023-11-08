@@ -4,9 +4,7 @@ I had a repository for Machine Learning, and actually Deep Learning is a type of
 But I decided to create a separate repository for Neural Networks DL, as it's a very big theme... <br>
 
 I'll be getting information from these sources: <br>
-___
-# **<a href='https://www.amazon.com/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709/ref=sr_1_1?crid=16PNXLJEU9CQK&keywords=grokking+deep+learning&qid=1699268470&sprefix=grokking+deep+learning%2Caps%2C183&sr=8-1'> Grokking Deep Learning </a>** <br>
-<img src='https://www.oreilly.com/api/v2/epubs/9781617293702/files/cover.jpg' width=33%>
+
 ___
 
 # **<a href='https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/1777005477/ref=sr_1_1?crid=34NDULROYJOS1&keywords=100+page+machine+learning+book&qid=1699268677&sprefix=100+machine+l%2Caps%2C197&sr=8-1'> The Hundred-Page Machine Learning Book </a>** <br>
