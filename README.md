@@ -12,8 +12,8 @@ ___
 <img src='https://m.media-amazon.com/images/I/51OfJg+8G9L._AC_UF1000,1000_QL80_.jpg' width=33%>
 ___
 
-# **<a href='https://mlcourse.ai/book/index.html'> ML course ai </a>** <br>
-<img src='https://mlcourse.ai/_images/ods_stickers.jpg'>
+# **<a href='https://dlcourse.ai/'> DL course ai </a>** <br>
+<img src='https://i.ibb.co/vHZ38dd/123.png'>
 ___
 
 # **MEME:** <br>
