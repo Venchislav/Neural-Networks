@@ -16,6 +16,10 @@ ___
 <img src='https://i.ibb.co/vHZ38dd/123.png'>
 ___
 
+# **<a href='kaggle.com'> Kaggle </a>** <br>
+<img src='https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png'>
+___
+
 # **MEME:** <br>
 <img src='https://preview.redd.it/501nquvhz4bb1.jpg?width=640&crop=smart&auto=webp&s=c1a1d0f548483fdb1f39a36bb52705c8d3adbfcc'>
  
