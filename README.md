@@ -16,7 +16,7 @@ ___
 <img src='https://i.ibb.co/vHZ38dd/123.png'>
 ___
 
-# **<a href='kaggle.com'> Kaggle </a>** <br>
+# **<a href='https://www.kaggle.com/'> Kaggle </a>** <br>
 <img src='https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png'>
 ___
 
