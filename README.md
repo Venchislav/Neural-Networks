@@ -21,5 +21,5 @@ ___
 ___
 
 # **MEME:** <br>
-<img src='https://preview.redd.it/501nquvhz4bb1.jpg?width=640&crop=smart&auto=webp&s=c1a1d0f548483fdb1f39a36bb52705c8d3adbfcc'>
+<img src='https://preview.redd.it/a7230340fy1c1.png?width=640&crop=smart&auto=webp&s=677ad298afc14161fd07e79520ae70c5875cbaf4'>
  
