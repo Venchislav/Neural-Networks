@@ -12,8 +12,8 @@ ___
 <img src='https://m.media-amazon.com/images/I/51OfJg+8G9L._AC_UF1000,1000_QL80_.jpg' width=33%>
 ___
 
-# **<a href='https://dlcourse.ai/'> DL course ai </a>** <br>
-<img src='https://i.ibb.co/vHZ38dd/123.png'>
+# **<a href='https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438'> Deep Learning with python -  François Chollet</a>** <br>
+<img src='https://images.manning.com/book/a/2a49d38-96e5-4bf7-8555-57f689c52ebf/Chollet-2ed-HI.png' width=20%>
 ___
 
 # **<a href='https://www.kaggle.com/'> Kaggle </a>** <br>
